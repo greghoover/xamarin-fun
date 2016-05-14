@@ -1,0 +1,2 @@
+﻿Map service Application ID: 86cab44e-f3c0-42b5-830d-ea49aa97dac5 
+Map service Authentication Token: yGnduHfv-qwr1Rr3iC0sZg 
