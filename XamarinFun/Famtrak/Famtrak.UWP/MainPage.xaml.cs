@@ -16,13 +16,13 @@ using Windows.UI.Xaml.Navigation;
 
 namespace Famtrak.UWP
 {
-    public sealed partial class MainPage
-    {
-        public MainPage()
-        {
-            this.InitializeComponent();
+	public sealed partial class MainPage
+	{
+		public MainPage()
+		{
+			this.InitializeComponent();
 
-            LoadApplication(new Famtrak.App());
-        }
-    }
+			LoadApplication(new Famtrak.App());
+		}
+	}
 }
