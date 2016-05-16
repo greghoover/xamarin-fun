@@ -1,0 +1,8 @@
+﻿cd C:\Program Files (x86)\Java\jdk1.7.0_55\bin
+
+keytool -list -v -keystore "C:\Users\greg.hoover\AppData\Local\Xamarin\Mono for Android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+
+Calling Google Maps Android API from Android 
+Created API key 'AndroidMapKey1' 
+AIzaSyB8VBzrzUCCZ9erItOSNm6Gj-bao3za_N4
+AndroidMapKey1	May 15, 2016	Android	AIzaSyB8VBzrzUCCZ9erItOSNm6Gj-bao3za_N4

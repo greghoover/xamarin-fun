@@ -14,11 +14,11 @@ namespace Famtrak
 			//	{
 			//		VerticalOptions = LayoutOptions.Center,
 			//		Children = {
-			//			new Map(new MapSpan(new Position(0, 0), 28.533,81.3792)), // new MapSpan(new Position(10, 10), 28.533,81.3792)
-			//			 //new Label {
-			//				// HorizontalTextAlignment = TextAlignment.Center,
-			//				// Text = "Welcome to Xamarin Forms!"
-			//			 //}
+			//			//new Map(new MapSpan(new Position(0, 0), 28.533,81.3792)), // new MapSpan(new Position(10, 10), 28.533,81.3792)
+			//			 new Label {
+			//				 HorizontalTextAlignment = TextAlignment.Center,
+			//				 Text = "Welcome to Xamarin Forms!"
+			//			 }
 			//		 }
 			//	}
 			//};
